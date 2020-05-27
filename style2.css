@@ -1,16 +1,16 @@
 div {border: solid 3 px; color:rose; margin: 5px; background:yellow;}
-#b1 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
-#b2 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
-#b3 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
-#b3 {border-color:pink; border-style: solid;}
-#b4 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
-#b4{border-color:pink; border-style: solid;}
-#b5 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
-#b5 {border-color:pink; border-style: solid;}
-#b6 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
-#b7 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
+#b1 {border: solid 3 px; border-color:rose; margin: 5px; background:blue;}
+#b2 {border: solid 3 px; border-color:rose; margin: 5px; background:yellow;}
+#b3 {border: solid 3 px; border-color:rose; margin: 5px; background:blue;}
+#b3 {border-color:rose; border-style: solid;}
+#b4 {border: solid 3 px; border-color:v; margin: 5px; background:blue;}
+#b4{border-color:rose; border-style: solid;}
+#b5 {border: solid 3 px; border-color:rose; margin: 5px; background:blue;}
+#b5 {border-color:rose; border-style: solid;}
+#b6 {border: solid 3 px; border-color:rose; margin: 5px; background:blue;}
+#b7 {border: solid 3 px; border-color:rose; margin: 5px; background:blue;}
 #b3 {width: 25%; float:left}
-#b4 {width: 60%; float:left}
+#b4 {width: 45; float:left}
 #b5 {width: 13%; float:left}
 #b6 {clear:both;}
 

@@ -1,4 +1,4 @@
-div {border: solid 3 px; color:rose; margin: 5px; background:yellow;}
+div {border: solid 3 px; color:rose; margin: 5px; padding:5px; background:yellow;}
 #b1 {border: solid 3 px; border-color:rose; margin: 5px; background:yellow;}
 #b2 {border: solid 3 px; border-color:rose; margin: 5px; background:skyblue;}
 #b2 {border: solid; border-color:pink}
@@ -12,8 +12,8 @@ div {border: solid 3 px; color:rose; margin: 5px; background:yellow;}
 #b6 {border: solid; border-color:pink}
 #b7 {border: solid 3 px; border-color:rose; margin: 5px; background:blue;}
 #b3 {width: 25%; float:left}
-#b4 {width: 56%; float:left}
-#b5 {width: 13%; float:left}
+#b4 {width: 61%; float:left}
+#b5 {width: 9%; float:left}
 #b6 {clear:both;}
 
 

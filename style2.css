@@ -2,6 +2,7 @@ div {border: solid 3 px; color:rose; margin: 5px; background:yellow;}
 #b1 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
 #b2 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
 #b3 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
+#b3 {border-color:pink; border-style: solid;}
 #b4 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
 #b5 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}
 #b6 {border: solid 3 px; border-color:pink; margin: 5px; background:blue;}

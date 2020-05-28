@@ -1,8 +1,7 @@
 .fg1{margin:5px; background:grey;}
 div{border: solid 3 px; color:rose; margin: 5px; padding:5px; background:yellow;}
 #b1{border: solid 3 px; border-color:rose; margin: 5px; background:yellow;}
-#b2{margin: 5px; background:skyblue;}
-#b2{border: solid; border-color:pink}
+#b2{border: solid; border-color:pink; margin: 5px; background:skyblue;}
 #b3{border: solid 3 px; border-color:pink;}
 #b4{border: solid 3 px; border-color:pink;}
 #b5{border: solid 3 px; border-color:pink;}

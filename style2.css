@@ -1,4 +1,6 @@
 .fg1{margin:1%; background:grey;}
+body{margin:0px;}
+table,tr,td{border:solid 3px yellow;}
 div{margin:0px; padding:0px; background:yellow;}
 #b1{background:yellow;}
 #b2{background:skyblue;}

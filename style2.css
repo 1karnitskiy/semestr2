@@ -2,11 +2,14 @@ div {border: solid 3 px; color:rose; margin: 5px; padding:5px; background:yellow
 #b1 {border: solid 3 px; border-color:rose; margin: 5px; background:yellow;}
 #b2 {border: solid 3 px; border-color:rose; margin: 5px; background:skyblue;}
 #b2 {border: solid; border-color:pink}
-#b3 {border: solid 3 px; border-color:rose; margin: 5px; background:grey;}
+#b3 {border: solid 3 px; border-color:rose;}
+fg1 {margin:5px; background:grey;}
 #b3 {border-color:pink; border-style: solid;}
-#b4 {border: solid 3 px; border-color:v; margin: 5px; background:grey;}
-#b4{border-color:pink; border-style: solid;}
-#b5 {border: solid 3 px; border-color:rose; margin: 5px; background:grey;}
+#b4 {border: solid 3 px; border-color:pink;
+fg2 {margin:5px; background:grey;}
+#b4 {border-color:pink; border-style: solid;}
+#b5 {border: solid 3 px; border-color:rose;}
+fg3 {margin:5px; background:grey;}
 #b5 {border-color:pink; border-style: solid;}
 #b6 {margin: 5px; background:skyblue;}
 #b6 {border: solid; border-color:pink}

@@ -1,7 +1,7 @@
 .fg1{margin:1%; background:grey;}
-.fg2{font-family: FreeMono, monospace; font-size: 170%;}
+.fg2{font-family: Snell Roundhand, cursive; font-size: 100%;}
 body{margin:0px;}
-table,tr,td{border:solid 3px yellow;}
+table,tr,td{border:solid 3px skyblue;}
 div{margin:0px; padding:0px; background:yellow;}
 #b1{background:yellow;}
 #b2{background:skyblue;}

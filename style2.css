@@ -1,4 +1,5 @@
 .fg1{margin:1%; background:grey;}
+.fg2{font-family: Helvetica; font-size: 300%;}
 body{margin:0px;}
 table,tr,td{border:solid 3px yellow;}
 div{margin:0px; padding:0px; background:yellow;}

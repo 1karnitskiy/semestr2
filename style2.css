@@ -1,9 +1,9 @@
 .fg1{margin:1%; background:grey;}
 .fg2{text-decoration: underline;}
-body{margin:0px; background-image: url(pic1.png);}
+body{margin:0px;}
 table,tr,td{border:solid 3px skyblue;}
 div{margin:0px; padding:0px;}
-#b1{background:yellow;}
+#b1{background-image: url(pic1.png);}
 #b2{background:skyblue;}
 #b6{background:skyblue;}
 #b3{width: 20%; float:left}

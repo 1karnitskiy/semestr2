@@ -2,7 +2,7 @@
 div{background:white;}
 #b1{width: 1400px; height: 100px; margin: 20px; padding: 10px; background:grey; text-decoration: blink;}
 #b2{width: 530px;  height: 400px; margin: 20px; padding: 10px; background:yellow;}
-#b3{width: 530px;  height: 100px; margin: 20px; padding: 10px; background:red; background-image: url(pic1.png); background-position: top 10px right 10px; float:left}
+#b3{width: 530px;  height: 100px; margin: 20px; padding: 10px; background-color:blue; background-image: url(pic1.png); background-position: top 10px right 10px; float:left}
 #b4{width: 850px;  height: 500px; margin: 20px; padding: 10px; background:skyblue;}
 #b5{width: 1400px; height: 100px; margin: 20px; padding: 10px; background:green;}
 

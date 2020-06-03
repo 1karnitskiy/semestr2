@@ -2,9 +2,9 @@
 .fg2{text-decoration: underline;}
 body{margin:0px;}
 table,tr,td{border:solid 3px skyblue;}
-div{margin:0px; padding:0px;  background-repeat: no-repeat; background-image: url(pic1.png);}
+div{margin:0px; padding:0px;}
 #b1{background:yellow}
-#b2{background:skyblue;}
+#b2{background:skyblue; background-repeat: no-repeat; background-image: url(pic1.png);}
 #b6{background:skyblue;}
 #b3{width: 20%; float:left}
 #b4{width: 53%; float:left}

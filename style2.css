@@ -2,7 +2,7 @@
 .fg2{text-decoration: underline;}
 body{margin:0px; background-image: url(pic1.png);}
 table,tr,td{border:solid 3px skyblue;}
-div{margin:0px; padding:0px; background:yellow;}
+div{margin:0px; padding:0px;}
 #b1{background:yellow;}
 #b2{background:skyblue;}
 #b6{background:skyblue;}

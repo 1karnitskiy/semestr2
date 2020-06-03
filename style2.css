@@ -1,5 +1,5 @@
 .fg1{margin:1%; background:grey;}
-.fg2{font-family: Marker Felt, fantasy; font-variant: small-caps; font-size: 100%; font-weight: 80;}
+.fg2{font-family: courier new, monospace; font-variant: small-caps; font-size: 100%; font-weight: 80;}
 body{margin:0px;}
 table,tr,td{border:solid 3px skyblue;}
 div{margin:0px; padding:0px; background:yellow;}

@@ -1,8 +1,9 @@
 .fg1{font-family: Times, Times New Roman, serif; text-align: center;}
 div{background:white;}
-#b1{width: 1400px; height: 100px; margin: 20px; padding: 10px; background:grey; text-decoration: blink;}
-#b2{width: 530px;  height: 400px; margin: 20px; padding: 10px; background:yellow;}
-#b3{width: 530px;  height: 100px; margin: 20px; padding: 10px; background-color:blue; background-image: url(pic1.png); background-position: top 10px right 10px;}
-#b4{width: 850px;  height: 500px; margin: 20px; padding: 10px; background:skyblue; float:right}
-#b5{width: 1400px; height: 100px; margin: 20px; padding: 10px; background:green;}
+#b2{width: 1400px; height: 100px; margin: 20px; padding: 10px; background:grey; text-decoration: blink;}
+#b3{margin: 20px; padding: 10px; float:left}
+#b4{width: 530px;  height: 400px; background:yellow;}
+#b5{width: 530px;  height: 100px; background-color:blue; background-image: url(pic1.png); background-position: top 10px right 10px;}
+#b6{width: 850px;  height: 500px; margin: 20px; padding: 10px; background:skyblue; float:left}
+#b7{width: 1400px; height: 100px; margin: 20px; padding: 10px; background:green; clear:both}
 
